@@ -1,5 +1,0 @@
-Credits: BotPoison was influenced by these fine scripts:
-- Network Query Tool @ http://www.drunkwerks.com/docs/NetworkQueryTool/
-- Kloth.net Bot Trap @ http://www.kloth.net/internet/bottrap.php
-- perishablepress.com @ http://perishablepress.com/press/2010/07/14/blackhole-bad-bots/
-- fng-ssn-tools @ https://github.com/corbanworks/fng-ssn-tools
